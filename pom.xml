@@ -43,7 +43,7 @@
 				<artifactId>maven-jar-plugin</artifactId>
 				<version>3.3.0</version>
 				<configuration>
-					<archice>
+					<archive>
 						<manifest>
 							<mainClass>io.buildpacks.example.sample.SampleApplication</mainClass>
 						</manifest>
